@@ -1,6 +1,6 @@
 # Calculadora em PHP 
 
 ### Criada com PHP 8+
-- Função Macth
+- Função Match
 - Função Enum
 - Class
