@@ -27,7 +27,7 @@
     <main class="container">
         <div id="box">
             <form action="/calcular.php" method="post">
-                <span><?php echo $mensagem ?></span>
+                <div class="alert alert-success"><?= $mensagem ?></div>
                 <label class="form-label" for="v1">1° valor:</label>
                 <input class="form-control" type="text" name="v1" id="v1" placeholder="Valor 1" />
 
